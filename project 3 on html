@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Devil Production</title>
+    <link rel="icon"href="https://img.icons8.com/?size=160&id=pIDWGWVpAkV6&format=png"width="32*32"type="image/x-icon">
+</head>
+<body>
+    <form action="mailto:devil692005@gmail.com">
+    <h1>Welcome to DEVIL PROD.</h1>
+    <h2>Contact Us Form</h2>
+    <label for ="name">Name :</label>
+    <input type="text"id="name"name="name"placeholder="Enter Your Name"><br>
+    <label for="email"id="email">Email :</label>
+    <input type="text" id="email"placeholder="Enter Your Email-id"name="email"><br>
+    <label for="number"id="number">Number :</label>
+    <input type="number"id="number"name="number"placeholder="Enter Your Number"><br>
+    <label for="gender"id="gender">Gender :</label>
+    <select type="option" id="gender"name="gender">
+        <option id="gender"name="gender">Male</option>
+        <option id="gender"name="gender">Female</option>
+        <option id="gender"name="gender">Not to Say</option>
+    </select><br>
+    <label for="dob"id="dob">D.O.B :</label>
+    <input type="date"id="dob"name="dob"><br>
+    <label for="rating"id="rating">Rating :</label>
+    <input type="radio"id="rating"name="rating"value="1">
+    <label for="radio"id="rating">1</label>
+    <input type="radio"id="rating"name="rating"value="2">
+    <label for="radio"id="rating">2</label>
+    <input type="radio"id="rating"name="rating"value="3">
+    <label for="radio"id="rating">3</label>
+    <input type="radio"id="rating"name="rating"value="4">
+    <label for="radio"id="rating">4</label>
+    <input type="radio"id="rating"name="rating"value="5">
+    <label for="radio"id="rating">5</label><br>
+
+    <label for="msg">Enter Your Message :</label><br>
+        <textarea id="msg"name="number"cols="30"rows="5"placeholder="Enter Your Experiance"></textarea><br>
+    <input type="submit" value="submit"id="submit"name="submit">
+    <input  type="reset"value="reset"id="submit"name="reset"><br>
+    <a href="https://www.linkedin.com/analytics/profile-views/">
+        <img src="https://img.icons8.com/?size=96&id=xuvGCOXi8Wyg&format=png"alt="linkedin"width="55"height="55";>
+    </a>
+    <a href="https://www.instagram.com/_aman_raj_005/">
+        <img src="https://img.icons8.com/?size=160&id=nj0Uj45LGUYh&format=png"alt="instagram"width="55"height="55";>
+    </a>
+</a>
+<a href="https://youtube.com/shorts/WhhcaE97lo4?si=bm1blqPUin3xa5NH">
+    <img src="https://img.icons8.com/?size=96&id=19318&format=png"alt="instagram"width="55"height="55";>
+</a>
+</form>
+</body>
+</html>
